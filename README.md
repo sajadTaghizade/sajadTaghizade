@@ -35,7 +35,6 @@ Here are some of the technologies I've been working with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajadTaghizade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sajad's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadTaghizade&layout=compact&theme=tokyonight&hide_border=true" alt="Sajad's Top Languages" />
 </p>
 
