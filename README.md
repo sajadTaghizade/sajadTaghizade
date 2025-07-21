@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently diving deep into **Machine Learning** and exploring **Deep Learning** frameworks.
+- 🌱 I’m currently diving deep into **Machine Learning** , **Data Science** and exploring **Deep Learning** frameworks.
 - 🔭 I’m looking for opportunities to collaborate on open-source AI projects.
 - 💬 Ask me about **Python, Data Structures, or anything related to AI/ML**.
 - 📫 How to reach me: **Sajjad.taghi.84.2005@gmail.com** or connect with me on **[LinkedIn](YOUR_LINKEDIN_URL)**.
