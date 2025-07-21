@@ -15,8 +15,8 @@
 - 🌱 I’m currently diving deep into **Machine Learning** and exploring **Deep Learning** frameworks.
 - 🔭 I’m looking for opportunities to collaborate on open-source AI projects.
 - 💬 Ask me about **Python, Data Structures, or anything related to AI/ML**.
-- 📫 How to reach me: **[Your Email Address]** or connect with me on **[LinkedIn](YOUR_LINKEDIN_URL)**.
-- ⚡ Fun fact: When I'm not coding, I'm probably watching or playing football!
+- 📫 How to reach me: **Sajjad.taghi.84.2005@gmail.com** or connect with me on **[LinkedIn](YOUR_LINKEDIN_URL)**.
+- ⚡ Fun fact: When I'm not coding, I'm probably watching football!
 
 ---
 
@@ -26,7 +26,7 @@ Here are some of the technologies I've been working with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,mysql,postgres,docker,git,linux,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,linux,ubuntu,cpp,c,django,r,vscode&perline=6" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Here are some of the technologies I've been working with:
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_ID" target="_blank">
+  <a href="https://t.me/Sajjad8446" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
