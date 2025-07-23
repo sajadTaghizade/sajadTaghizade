@@ -15,7 +15,7 @@
 - 🌱 I’m currently diving deep into **Machine Learning** , **Data Science** and exploring **Deep Learning** frameworks.
 - 🔭 I’m looking for opportunities to collaborate on open-source AI projects.
 - 💬 Ask me about **Python, Data Structures, or anything related to AI/ML**.
-- 📫 How to reach me: **Sajjad.taghi.84.2005@gmail.com** or connect with me on **[LinkedIn](YOUR_LINKEDIN_URL)**.
+- 📫 How to reach me: **Sajjad.taghi.84.2005@gmail.com** or connect with me on **[LinkedIn](www.linkedin.com/in/sajjad-taghizadeh-b4830b321)**.
 - ⚡ Fun fact: When I'm not coding, I'm probably watching football!
 
 ---
@@ -43,7 +43,7 @@ Here are some of the technologies I've been working with:
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/sajjad-taghizadeh-b4830b321" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://t.me/Sajjad8446" target="_blank">
