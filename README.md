@@ -32,6 +32,20 @@ Here are some of the technologies I've been working with:
 
 ---
 
+
+### 📜 My Certificates & Accomplishments
+
+Here are some of the certifications I've earned:
+
+<p align="center">
+  <a href="https://github.com/sajadTaghizade/sajadTaghizade/blob/main/certificates/fa1e53b2475d424ba8e0d0c944d4e9cd%20(2).jpg">
+    <img src="https://github.com/sajadTaghizade/sajadTaghizade/blob/main/certificates/fa1e53b2475d424ba8e0d0c944d4e9cd%20(2).jpg" alt="Certificate 1" width="400"/>
+  </a>
+  <a href="https://github.com/sajadTaghizade/sajadTaghizade/blob/main/certificates/fa1e53b2475d424ba8e0d0c944d4e9cd%20(2).jpg">
+    <img src="https://github.com/sajadTaghizade/sajadTaghizade/blob/main/certificates/fa1e53b2475d424ba8e0d0c944d4e9cd%20(2).jpg" alt="Certificate 2" width="400"/>
+  </a>
+</p>
+
 ### 📊 My GitHub Stats
 
 <p align="center">
