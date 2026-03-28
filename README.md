@@ -5,18 +5,8 @@
 </h1>
 
 <p align="center">
-  I'm a Computer Engineering student at the <strong>University of Tehran (UT)</strong>, passionate about building intelligent solutions and solving complex problems. My main interests lie in the fields of Artificial Intelligence, Machine Learning, and Data Science.
+  Computer Engineering student at the <strong>University of Tehran (UT)</strong>
 </p>
-
----
-
-### 🚀 About Me
-
-- 🌱 I’m currently diving deep into **Machine Learning** , **Data Science** and exploring **Deep Learning** frameworks.
-- 🔭 I’m looking for opportunities to collaborate on open-source AI projects.
-- 💬 Ask me about **Python, Data Structures, or anything related to AI/ML**.
-- 📫 How to reach me: **Sajjad.taghi.84.2005@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/sajjad-taghizadeh)**.
-- ⚡ Fun fact: When I'm not coding, I'm probably watching football!
 
 ---
 
