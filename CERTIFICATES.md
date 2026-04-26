@@ -11,6 +11,7 @@ This repository contains my earned certificates and the corresponding projects I
 
 ### 🛠️ Related Projects:
 * **[Advanced-Programming](https://github.com/sajadTaghizade/Advanced-Programming):** Implementations of core C++ concepts, OOP, and memory management.
+* **[DadeNagar-Project](https://github.com/sajadTaghizade/dadenegar):** Lightweight Object-Oriented Database Management System in C++.
 
 ---
 
