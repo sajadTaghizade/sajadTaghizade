@@ -11,6 +11,8 @@ This repository contains my earned certificates and the corresponding projects I
 
 ### 🛠️ Related Projects:
 * **[Advanced-Programming](https://github.com/sajadTaghizade/Advanced-Programming):** Implementations of core C++ concepts, OOP, and memory management.
+* **[DEDENRGAR](https://github.com/sajadTaghizade/DEDENRGAR):** C/C++ project aligned with systems-level and algorithmic programming practice.
+* **[oS](https://github.com/sajadTaghizade/oS):** Operating-system-focused C/C++ project covering low-level concepts and implementation details.
 
 ---
 
