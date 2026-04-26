@@ -14,8 +14,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,linux,ubuntu,cpp,c,django,docker,r,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,linux,ubuntu,cpp,c,django,docker,r,vscode,java,html,css&perline=9" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Verilog-00599C?style=flat&logoColor=white" alt="Verilog">
+  <img src="https://img.shields.io/badge/SystemVerilog-00599C?style=flat&logoColor=white" alt="SystemVerilog">
 </p>
 
 ---
