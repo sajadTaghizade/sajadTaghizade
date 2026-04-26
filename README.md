@@ -23,21 +23,22 @@
 ### 📜 Certificates & Applied Projects
 
 <p align="left">
+  <em>💡 Click on each badge below to view the official certificates and my hands-on projects! </em>👇<br><br>
   <a href="CERTIFICATES.md#cpp">
-    <img src="https://img.shields.io/badge/C%2B%2B_Programming-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Cert">
+    <img src="https://img.shields.io/badge/C%2B%2B_Programming-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Cert">
   </a>
   <a href="CERTIFICATES.md#python-django">
-    <img src="https://img.shields.io/badge/Python_&_Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Python Django Cert">
+    <img src="https://img.shields.io/badge/Python_&_Django-092E20?style=flat&logo=django&logoColor=white" alt="Python Django Cert">
   </a>
   
   <a href="CERTIFICATES.md#linux">
-    <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Cert">
+    <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Cert">
   </a>
   <a href="CERTIFICATES.md#network-plus">
-    <img src="https://img.shields.io/badge/Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white" alt="Network+ Cert">
+    <img src="https://img.shields.io/badge/Network%2B-007ACC?style=flat&logo=comptia&logoColor=white" alt="Network+ Cert">
   </a>
   <a href="CERTIFICATES.md#docker">
-    <img src="https://img.shields.io/badge/Docker_&_DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Cert">
+    <img src="https://img.shields.io/badge/Docker_&_DevOps-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Cert">
   </a>
 </p>
 
@@ -55,9 +56,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sajjad-taghizadeh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://t.me/Sajjad8446" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
