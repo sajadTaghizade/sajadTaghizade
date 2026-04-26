@@ -25,14 +25,11 @@ Here are some of the technologies I've been working with:
 ### 📜 Certificates & Applied Projects
 
 <p align="left">
-  <a href="CERTIFICATES.md#machine-learning--data-science">
-    <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="AI Certs">
+  <a href="CERTIFICATES.md#c-programming">
+    <img src="https://img.shields.io/badge/C%2B%2B_Programming-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Cert">
   </a>
-  <a href="CERTIFICATES.md#systems--infrastructure">
-    <img src="https://img.shields.io/badge/Low--Level_Systems-002244?style=for-the-badge&logo=linux&logoColor=white" alt="Systems Certs">
-  </a>
-  <a href="CERTIFICATES.md#backend-development">
-    <img src="https://img.shields.io/badge/Backend_Development-008080?style=for-the-badge&logo=django&logoColor=white" alt="Backend Certs">
+  <a href="CERTIFICATES.md#linux--system-administration">
+    <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Cert">
   </a>
 </p>
 
