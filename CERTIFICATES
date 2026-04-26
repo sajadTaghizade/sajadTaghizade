@@ -1,0 +1,36 @@
+# 📜 Certificates & Applied Projects
+
+This repository contains my earned certificates and the corresponding projects I have implemented to put these skills into practice.
+
+---
+
+## 🤖 Machine Learning & Data Science
+
+<p align="center">
+  <img src="certificates/fa1e53b2475d424ba8e0d0c944d4e9cd%20(2).jpg" alt="ML Certificate" width="500"/>
+</p>
+
+### 🛠️ Related Projects:
+* **[Artificial-Intelligence-AI](https://github.com/sajadTaghizade/Artificial-Intelligence-AI):** Implementations of AI algorithms and concepts.
+* **[machine-_learning1-](https://github.com/sajadTaghizade/machine-_learning1-):** Jupyter notebooks detailing ML workflows, including Neural Networks, PCA, and Clustering Algorithms.
+* **[Engineering-Statistics-and-Probability](https://github.com/sajadTaghizade/Engineering-Statistics-and-Probability):** Statistical analysis and data-driven problem solving.
+
+---
+
+## ⚙️ Systems & Infrastructure
+
+<p align="center">
+  <img src="certificates/6bc932fb89004c36b0058e032e3f35e8.jpg" alt="Systems Certificate" width="500"/>
+</p>
+
+### 🛠️ Related Projects:
+* **[Advanced-Programming](https://github.com/sajadTaghizade/Advanced-Programming):** Core C++ concepts, pointers, and memory management.
+* **[Data-Structure](https://github.com/sajadTaghizade/Data-Structure):** Fundamental data structures implemented from scratch.
+* **Operating Systems (xv6):** Low-level kernel modifications and system calls. *(Private/Local)*
+
+---
+
+## 🌐 Backend Development
+
+### 🛠️ Related Projects:
+* **Custom CRM System:** Developed using Django, featuring role-based access control and custom Persian calendar integrations. *(Private/Local)*
