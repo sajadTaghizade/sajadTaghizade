@@ -30,7 +30,7 @@ This repository contains my earned certificates and the corresponding projects I
 * **[Artificial-Intelligence-AI](https://github.com/sajadTaghizade/Artificial-Intelligence-AI):** AI algorithms and machine learning models implemented in Python.
 * **[Data-Structure](https://github.com/sajadTaghizade/Data-Structure):** Data Structures Course Projects.
 * **[Engineering-Statistics-and-Probability](https://github.com/sajadTaghizade/Engineering-Statistics-and-Probability):** Engineering Statistics & Probability Projects.
-* **[machine-learning](https://github.com/sajadTaghizade/machine-_learning1-):** Machine Learning Algorithms Collection.
+* **[machine-learning](https://github.com/sajadTaghizade/machine-learning):** Machine Learning Algorithms Collection.
 
 
 ---
