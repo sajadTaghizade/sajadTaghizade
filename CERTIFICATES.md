@@ -17,7 +17,9 @@ This repository contains my earned certificates and the corresponding projects I
 
 ## <a id="python-django"></a>🐍 Python & Django Development
 <p align="center">
-  <img src="certificates/python_django.jpg" alt="Python & Django Certificate" width="500"/>
+  <img src="certificates/python.png" alt="Python & Django Certificate" width="500"/>
+  <img src="certificates/django.png" alt="Python & Django Certificate" width="500"/>
+
 </p>
 
 ### 🛠️ Related Projects:
@@ -39,7 +41,7 @@ This repository contains my earned certificates and the corresponding projects I
 
 ## <a id="network-plus"></a>🌐 Network+ (Networking Fundamentals)
 <p align="center">
-  <img src="certificates/network_plus.jpg" alt="Network+ Certificate" width="500"/>
+  <img src="certificates/network_plus.png" alt="Network+ Certificate" width="500"/>
 </p>
 
 ### 🛠️ Application:
@@ -49,7 +51,7 @@ This repository contains my earned certificates and the corresponding projects I
 
 ## <a id="docker"></a>🐳 Docker & Containerization
 <p align="center">
-  <img src="certificates/docker.jpg" alt="Docker Certificate" width="500"/>
+  <img src="certificates/docker.png" alt="Docker Certificate" width="500"/>
 </p>
 
 ### 🛠️ Application:
