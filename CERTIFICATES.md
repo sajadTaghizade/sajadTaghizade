@@ -4,24 +4,53 @@ This repository contains my earned certificates and the corresponding projects I
 
 ---
 
-## 💻 C++ Programming
-
+## <a id="cpp"></a>💻 C++ Programming
 <p align="center">
   <img src="certificates/c++.jpg" alt="C++ Certificate" width="500"/>
 </p>
 
 ### 🛠️ Related Projects:
-* **[Advanced-Programming](https://github.com/sajadTaghizade/Advanced-Programming):** Implementations of core C++ concepts, Object-Oriented Programming (OOP), pointers, and memory management.
-* **[Data-Structure](https://github.com/sajadTaghizade/Data-Structure):** Fundamental data structures and algorithms developed to optimize performance and resource usage.
+* **[Advanced-Programming](https://github.com/sajadTaghizade/Advanced-Programming):** Implementations of core C++ concepts, OOP, and memory management.
+* **[Data-Structure](https://github.com/sajadTaghizade/Data-Structure):** Fundamental data structures and algorithms.
 
 ---
 
-## 🐧 Linux & System Administration
+## <a id="python-django"></a>🐍 Python & Django Development
+<p align="center">
+  <img src="certificates/python_django.jpg" alt="Python & Django Certificate" width="500"/>
+</p>
 
+### 🛠️ Related Projects:
+* **[Artificial-Intelligence-AI](https://github.com/sajadTaghizade/Artificial-Intelligence-AI):** AI algorithms and machine learning models implemented in Python.
+* **Custom CRM System:** A full-stack management system with role-based access control and Persian calendar integration.
+
+---
+
+## <a id="linux"></a>🐧 Linux & System Administration
 <p align="center">
   <img src="certificates/linux.jpg" alt="Linux Certificate" width="500"/>
 </p>
 
-### 🛠️ Related Projects & Applications:
-* **System Configuration & Troubleshooting:** Active management and configuration of Ubuntu environments for development and deployment.
-* **Operating Systems (xv6):** Practical experience with low-level kernel modifications, system calls, and hardware-level interaction.
+### 🛠️ Related Projects:
+* **System Configuration:** Managing Ubuntu environments and shell scripting.
+* **Operating Systems (xv6):** Low-level kernel modifications and system calls.
+
+---
+
+## <a id="network-plus"></a>🌐 Network+ (Networking Fundamentals)
+<p align="center">
+  <img src="certificates/network_plus.jpg" alt="Network+ Certificate" width="500"/>
+</p>
+
+### 🛠️ Application:
+* **Infrastructure Foundation:** Understanding OSI model, TCP/IP, and network security protocols for distributed systems and backend infrastructure.
+
+---
+
+## <a id="docker"></a>🐳 Docker & Containerization
+<p align="center">
+  <img src="certificates/docker.jpg" alt="Docker Certificate" width="500"/>
+</p>
+
+### 🛠️ Application:
+* **Infrastructure Engineering:** Containerizing applications, managing microservices, and optimizing deployment workflows as part of the infrastructure roadmap.
