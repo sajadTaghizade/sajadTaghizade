@@ -25,8 +25,8 @@
 <p align="left">
   <em>💡 Click on each badge below to view the official certificates and my hands-on projects! </em>👇<br><br>
   <a href="CERTIFICATES.md#cpp">
-    <img src="https://img.shields.io/badge/C%2B%2B_Programming-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Cert">
-  </a>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B_Programming-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C/C++ Cert">
+</a>
   <a href="CERTIFICATES.md#python-django">
     <img src="https://img.shields.io/badge/Python_&_Django-092E20?style=flat&logo=django&logoColor=white" alt="Python Django Cert">
   </a>
