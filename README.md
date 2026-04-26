@@ -22,17 +22,17 @@ Here are some of the technologies I've been working with:
 
 ---
 
+### 📜 Certificates & Applied Projects
 
-### 📜 My Certificates & Accomplishments
-
-Here are some of the certifications I've earned:
-
-<p align="center">
-  <a href="https://github.com/sajadTaghizade/sajadTaghizade/blob/main/certificates/fa1e53b2475d424ba8e0d0c944d4e9cd%20(2).jpg">
-    <img src="https://github.com/sajadTaghizade/sajadTaghizade/blob/main/certificates/fa1e53b2475d424ba8e0d0c944d4e9cd%20(2).jpg" alt="Certificate 1" width="400"/>
+<p align="left">
+  <a href="CERTIFICATES.md#machine-learning--data-science">
+    <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="AI Certs">
   </a>
-  <a href="https://github.com/sajadTaghizade/sajadTaghizade/blob/main/certificates/6bc932fb89004c36b0058e032e3f35e8.jpg">
-    <img src="https://github.com/sajadTaghizade/sajadTaghizade/blob/main/certificates/6bc932fb89004c36b0058e032e3f35e8.jpg" alt="Certificate 2" width="400"/>
+  <a href="CERTIFICATES.md#systems--infrastructure">
+    <img src="https://img.shields.io/badge/Low--Level_Systems-002244?style=for-the-badge&logo=linux&logoColor=white" alt="Systems Certs">
+  </a>
+  <a href="CERTIFICATES.md#backend-development">
+    <img src="https://img.shields.io/badge/Backend_Development-008080?style=for-the-badge&logo=django&logoColor=white" alt="Backend Certs">
   </a>
 </p>
 
