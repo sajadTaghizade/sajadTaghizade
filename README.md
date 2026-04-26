@@ -25,10 +25,10 @@ Here are some of the technologies I've been working with:
 ### 📜 Certificates & Applied Projects
 
 <p align="left">
-  <a href="CERTIFICATES.md#c-programming">
+  <a href="CERTIFICATES.md#cpp">
     <img src="https://img.shields.io/badge/C%2B%2B_Programming-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Cert">
   </a>
-  <a href="CERTIFICATES.md#linux--system-administration">
+  <a href="CERTIFICATES.md#linux">
     <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Cert">
   </a>
 </p>
