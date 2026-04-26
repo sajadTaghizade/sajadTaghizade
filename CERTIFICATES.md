@@ -11,7 +11,6 @@ This repository contains my earned certificates and the corresponding projects I
 
 ### 🛠️ Related Projects:
 * **[Advanced-Programming](https://github.com/sajadTaghizade/Advanced-Programming):** Implementations of core C++ concepts, OOP, and memory management.
-* **[Data-Structure](https://github.com/sajadTaghizade/Data-Structure):** Fundamental data structures and algorithms.
 
 ---
 
@@ -24,7 +23,6 @@ This repository contains my earned certificates and the corresponding projects I
 
 ### 🛠️ Related Projects:
 * **[Artificial-Intelligence-AI](https://github.com/sajadTaghizade/Artificial-Intelligence-AI):** AI algorithms and machine learning models implemented in Python.
-* **Custom CRM System:** A full-stack management system with role-based access control and Persian calendar integration.
 
 ---
 
