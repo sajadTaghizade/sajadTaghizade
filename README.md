@@ -12,11 +12,9 @@
 
 ### 🛠️ My Tech Stack & Tools
 
-Here are some of the technologies I've been working with:
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,linux,ubuntu,cpp,c,django,r,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,linux,ubuntu,cpp,c,django,docker,r,vscode&perline=8" />
   </a>
 </p>
 
@@ -28,8 +26,18 @@ Here are some of the technologies I've been working with:
   <a href="CERTIFICATES.md#cpp">
     <img src="https://img.shields.io/badge/C%2B%2B_Programming-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Cert">
   </a>
+  <a href="CERTIFICATES.md#python-django">
+    <img src="https://img.shields.io/badge/Python_&_Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Python Django Cert">
+  </a>
+  
   <a href="CERTIFICATES.md#linux">
     <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Cert">
+  </a>
+  <a href="CERTIFICATES.md#network-plus">
+    <img src="https://img.shields.io/badge/Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white" alt="Network+ Cert">
+  </a>
+  <a href="CERTIFICATES.md#docker">
+    <img src="https://img.shields.io/badge/Docker_&_DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Cert">
   </a>
 </p>
 
