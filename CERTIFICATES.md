@@ -13,7 +13,7 @@ This repository contains my earned certificates and the corresponding projects I
 * **[Advanced-Programming](https://github.com/sajadTaghizade/Advanced-Programming):** Implementations of core C++ concepts, OOP, and memory management.
 * **[DadeNagar-Project](https://github.com/sajadTaghizade/dadenegar):** Lightweight Object-Oriented Database Management System in C++.
 * **[Film-Recommender-System](https://github.com/sajadTaghizade/Film-Recommender-System):** A Smart Movie Recommender System with dual interfaces (CLI & GUI), built with C++ and SFML.
-* **[Operating-System](https://github.com/sajadTaghizade/-OS):** Operating Systems Lab (xv6).
+* **[Operating-System](https://github.com/sajadTaghizade/Operating-Systems-Lab):** Operating Systems Lab (xv6).
 
 
 
@@ -41,8 +41,7 @@ This repository contains my earned certificates and the corresponding projects I
 </p>
 
 ### 🛠️ Related Projects:
-* **System Configuration:** Managing Ubuntu environments and shell scripting.
-* **Operating Systems (xv6):** Low-level kernel modifications and system calls.
+* **[Operating-System](https://github.com/sajadTaghizade/Operating-Systems-Lab):** Operating Systems Lab (xv6).
 
 ---
 
