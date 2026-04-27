@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,linux,ubuntu,cpp,c,django,docker,r,vscode,java,html,css&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,linux,ubuntu,cpp,c,django,docker,r,vscode,java,html,css,matlab&perline=8" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" alt="Pandas">
