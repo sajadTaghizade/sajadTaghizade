@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,linux,ubuntu,cpp,c,django,docker,r,vscode,java,html,css,matlab&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,linux,ubuntu,cpp,c,django,docker,r,vscode,java,html,css,matlab,golang&perline=8" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" alt="Pandas">
@@ -30,10 +30,13 @@
 <p align="left">
   <em>💡 Click on each badge below to view the official certificates and my hands-on projects! </em>👇<br><br>
   <a href="CERTIFICATES.md#cpp">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B_Programming-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C/C++ Cert">
-</a>
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B_Programming-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C/C++ Cert">
+  </a>
   <a href="CERTIFICATES.md#python-django">
     <img src="https://img.shields.io/badge/Python_&_Django-092E20?style=flat&logo=django&logoColor=white" alt="Python Django Cert">
+  </a>
+  <a href="CERTIFICATES.md#golang">
+    <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang Cert">
   </a>
   
   <a href="CERTIFICATES.md#linux">
