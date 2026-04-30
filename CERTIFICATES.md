@@ -38,7 +38,6 @@ This repository contains my earned certificates and the corresponding projects I
 
 ### 🛠️ Application & Related Projects:
 * **Backend & Microservices:** Building scalable backend architectures and concurrent services utilizing Go's goroutines and channels.
-* *(Add your specific Go repository links here when they are ready)*
 
 ---
 
