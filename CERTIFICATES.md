@@ -15,15 +15,12 @@ This repository contains my earned certificates and the corresponding projects I
 * **[Film-Recommender-System](https://github.com/sajadTaghizade/Film-Recommender-System):** A Smart Movie Recommender System with dual interfaces (CLI & GUI), built with C++ and SFML.
 * **[Operating-System](https://github.com/sajadTaghizade/Operating-Systems-Lab):** Operating Systems Lab (xv6).
 
-
-
 ---
 
 ## <a id="python-django"></a>🐍 Python & Django Development
 <p align="center">
-  <img src="certificates/python.png" alt="Python & Django Certificate" width="500"/>
-  <img src="certificates/django.png" alt="Python & Django Certificate" width="500"/>
-
+  <img src="certificates/python.png" alt="Python Certificate" width="500"/>
+  <img src="certificates/django.png" alt="Django Certificate" width="500"/>
 </p>
 
 ### 🛠️ Related Projects:
@@ -32,6 +29,16 @@ This repository contains my earned certificates and the corresponding projects I
 * **[Engineering-Statistics-and-Probability](https://github.com/sajadTaghizade/Engineering-Statistics-and-Probability):** Engineering Statistics & Probability Projects.
 * **[machine-learning](https://github.com/sajadTaghizade/machine-learning):** Machine Learning Algorithms Collection.
 
+---
+
+## <a id="golang"></a>🐹 Golang Development
+<p align="center">
+  <img src="certificates/golang.png" alt="Golang Certificate" width="500"/>
+</p>
+
+### 🛠️ Application & Related Projects:
+* **Backend & Microservices:** Building scalable backend architectures and concurrent services utilizing Go's goroutines and channels.
+* *(Add your specific Go repository links here when they are ready)*
 
 ---
 
