@@ -13,7 +13,9 @@ This repository contains my earned certificates and the corresponding projects I
 * **[Advanced-Programming](https://github.com/sajadTaghizade/Advanced-Programming):** Implementations of core C++ concepts, OOP, and memory management.
 * **[DadeNagar-Project](https://github.com/sajadTaghizade/dadenegar):** Lightweight Object-Oriented Database Management System in C++.
 * **[Film-Recommender-System](https://github.com/sajadTaghizade/Film-Recommender-System):** A Smart Movie Recommender System with dual interfaces (CLI & GUI), built with C++ and SFML.
-* **[Operating-System](https://github.com/sajadTaghizade/Operating-Systems-Lab):** Operating Systems Lab (xv6).
+* **[Operating-System-Lab](https://github.com/sajadTaghizade/Operating-Systems-Lab):** Operating Systems Lab (xv6).
+* **[Operating-System](https://github.com/sajadTaghizade/Operating-Systems):** Operating Systems Single Project With C++.
+
 
 ---
 
@@ -38,6 +40,16 @@ This repository contains my earned certificates and the corresponding projects I
 
 ### 🛠️ Application & Related Projects:
 * **Backend & Microservices:** Building scalable backend architectures and concurrent services utilizing Go's goroutines and channels.
+
+---
+
+## <a id="matlab"></a>🧮 MATLAB & Signal Processing
+<p align="center">
+  <img src="certificates/matlab.png" alt="MATLAB Certificate" width="500"/>
+</p>
+
+### 🛠️ Related Projects:
+* **[Signals-and-systems](https://github.com/sajadTaghizade/Signals-and-systems):** Comprehensive implementations in MATLAB covering Signal & Image Processing, Digital Communications (ASK/FSK), Steganography, and Machine Learning (SVM).
 
 ---
 
