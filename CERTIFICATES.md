@@ -44,9 +44,7 @@ This repository contains my earned certificates and the corresponding projects I
 ---
 
 ## <a id="matlab"></a>🧮 MATLAB & Signal Processing
-<p align="center">
-  <img src="certificates/matlab.png" alt="MATLAB Certificate" width="500"/>
-</p>
+
 
 ### 🛠️ Related Projects:
 * **[Signals-and-systems](https://github.com/sajadTaghizade/Signals-and-systems):** Comprehensive implementations in MATLAB covering Signal & Image Processing, Digital Communications (ASK/FSK), Steganography, and Machine Learning (SVM).
