@@ -4,7 +4,7 @@ This repository contains my earned certificates and the corresponding projects I
 
 ---
 
-## <a id="cpp"></a>💻 C++ Programming
+## <a id="cpp"></a>💻 C/C++ Programming
 <p align="center">
   <img src="certificates/c++.jpg" alt="C++ Certificate" width="500"/>
 </p>
