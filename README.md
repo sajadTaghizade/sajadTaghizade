@@ -38,6 +38,9 @@
   <a href="CERTIFICATES.md#golang">
     <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang Cert">
   </a>
+  <a href="CERTIFICATES.md#matlab">
+    <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white" alt="MATLAB Cert">
+  </a>
   
   <a href="CERTIFICATES.md#linux">
     <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Cert">
