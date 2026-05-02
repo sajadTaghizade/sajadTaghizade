@@ -45,7 +45,6 @@
     <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white" alt="MATLAB Cert">
   </a>
   
-  <br><br>
 
   <a href="CERTIFICATES.md#linux">
     <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Cert">
@@ -58,7 +57,6 @@
   </a>
 </p>
 
----
 
 ---
 
