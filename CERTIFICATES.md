@@ -16,7 +16,6 @@ This repository contains my earned certificates and the corresponding projects I
 * **[Operating-System-Lab](https://github.com/sajadTaghizade/Operating-Systems-Lab):** Operating Systems Lab (xv6).
 * **[Operating-System](https://github.com/sajadTaghizade/Operating-Systems):** Operating Systems Single Project With C++.
 
-
 ---
 
 ## <a id="python-django"></a>🐍 Python & Django Development
@@ -43,8 +42,18 @@ This repository contains my earned certificates and the corresponding projects I
 
 ---
 
-## <a id="matlab"></a>🧮 MATLAB & Signal Processing
+## <a id="java"></a>☕ Java Development
+<p align="center">
+  <img src="certificates/java.png" alt="Java Certificate" width="500"/>
+</p>
 
+### 🛠️ Related Projects:
+* **[Programming-Languages-And-Compiler-Design](https://github.com/sajadTaghizade/Programming-Languages-And-Compiler-Design):** Projects and implementations related to lexical analysis, parsing, and compiler construction concepts.
+* **[Internet-Engineering](https://github.com/sajadTaghizade/Internet-Engineering):** Web development and backend architecture projects developed for the Internet Engineering course.
+
+---
+
+## <a id="matlab"></a>🧮 MATLAB & Signal Processing
 
 ### 🛠️ Related Projects:
 * **[Signals-and-systems](https://github.com/sajadTaghizade/Signals-and-systems):** Comprehensive implementations in MATLAB covering Signal & Image Processing, Digital Communications (ASK/FSK), Steganography, and Machine Learning (SVM).
