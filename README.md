@@ -38,10 +38,15 @@
   <a href="CERTIFICATES.md#golang">
     <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang Cert">
   </a>
+  <a href="CERTIFICATES.md#java">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java Cert">
+  </a>
   <a href="CERTIFICATES.md#matlab">
     <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white" alt="MATLAB Cert">
   </a>
   
+  <br><br>
+
   <a href="CERTIFICATES.md#linux">
     <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Cert">
   </a>
@@ -52,6 +57,8 @@
     <img src="https://img.shields.io/badge/Docker_&_DevOps-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Cert">
   </a>
 </p>
+
+---
 
 ---
 
