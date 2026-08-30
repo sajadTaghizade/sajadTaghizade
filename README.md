@@ -14,11 +14,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,linux,ubuntu,cpp,c,java,spring,react,django,postgres,docker,kubernetes,nginx,r,jupyter,vscode,html,css,matlab,golang&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,linux,ubuntu,cpp,c,java,spring,react,django,postgres,docker,kubernetes,nginx,r,vscode,html,css,matlab,golang&perline=8" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" alt="Jupyter">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="48" alt="Kafka">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48" alt="Spark">
   <img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logoColor=white" height="48" alt="Verilog">
@@ -95,7 +96,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajadTaghizade&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="Sajad's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sajadTaghizade&theme=tokyonight&hide_border=true" alt="Sajad's GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=sajadTaghizade&theme=tokyonight&hide_border=true" alt="Sajad's GitHub Streak" />
 </p>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadTaghizade&layout=compact&theme=tokyonight&hide_border=true" alt="Sajad's Top Languages" />
