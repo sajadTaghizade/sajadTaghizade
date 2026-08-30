@@ -92,15 +92,14 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 🐍 My Contribution Snake
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajadTaghizade&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="Sajad's GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=sajadTaghizade&theme=tokyonight&hide_border=true" alt="Sajad's GitHub Streak" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadTaghizade&layout=compact&theme=tokyonight&hide_border=true" alt="Sajad's Top Languages" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=sajadTaghizade&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" alt="Sajad's GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajadTaghizade/sajadTaghizade/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajadTaghizade/sajadTaghizade/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sajadTaghizade/sajadTaghizade/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
