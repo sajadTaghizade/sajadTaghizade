@@ -78,8 +78,7 @@ This repository contains my earned certificates and the corresponding projects I
   <img src="certificates/network_plus.png" alt="Network+ Certificate" width="500"/>
 </p>
 
-### 🛠️ Application:
-* **Infrastructure Foundation:** Understanding OSI model, TCP/IP, and network security protocols for distributed systems and backend infrastructure.
+### 🛠️ Related Projects:
 * **[Computer-Networks](https://github.com/sajadTaghizade/Computer-Networks):** ns-3 WiFi simulation (802.11ac/ax) and GNS3 router topologies with static IP routing.
 
 ---
@@ -89,5 +88,7 @@ This repository contains my earned certificates and the corresponding projects I
   <img src="certificates/docker.png" alt="Docker Certificate" width="500"/>
 </p>
 
-### 🛠️ Application:
-* **Infrastructure Engineering:** Containerizing applications, managing microservices, and optimizing deployment workflows as part of the infrastructure roadmap.
+### 🛠️ Related Projects:
+* **[Internet-Engineering](https://github.com/sajadTaghizade/Internet-Engineering):** Multi-stage Docker builds for a Java backend and a React frontend, wired together with Docker Compose behind an Nginx reverse proxy.
+* **[Distributed-Systems](https://github.com/sajadTaghizade/Distributed-Systems):** A multi-stage, zero-dependency `scratch`-based Docker image for a Go HTTP microservice.
+* **[Data-Science](https://github.com/sajadTaghizade/Data-Science):** Docker and Kubernetes manifests for the final project's data pipeline, run in CI on every push.
