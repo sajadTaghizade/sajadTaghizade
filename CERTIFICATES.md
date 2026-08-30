@@ -14,7 +14,7 @@ This repository contains my earned certificates and the corresponding projects I
 * **[DadeNagar-Project](https://github.com/sajadTaghizade/dadenegar):** Lightweight Object-Oriented Database Management System in C++.
 * **[Film-Recommender-System](https://github.com/sajadTaghizade/Film-Recommender-System):** A Smart Movie Recommender System with dual interfaces (CLI & GUI), built with C++ and SFML.
 * **[Operating-System-Lab](https://github.com/sajadTaghizade/Operating-Systems-Lab):** Operating Systems Lab (xv6).
-* **[Operating-System](https://github.com/sajadTaghizade/Operating-Systems):** Operating Systems Single Project With C++.
+* **[Operating-System](https://github.com/sajadTaghizade/Operating-System):** Socket-based flight reservation system, a Linux shell with named/unnamed pipes, and a thread-synchronization + CPU-scheduling simulator.
 
 ---
 
@@ -29,6 +29,8 @@ This repository contains my earned certificates and the corresponding projects I
 * **[Data-Structure](https://github.com/sajadTaghizade/Data-Structure):** Data Structures Course Projects.
 * **[Engineering-Statistics-and-Probability](https://github.com/sajadTaghizade/Engineering-Statistics-and-Probability):** Engineering Statistics & Probability Projects.
 * **[machine-learning](https://github.com/sajadTaghizade/machine-learning):** Machine Learning Algorithms Collection.
+* **[Data-Science](https://github.com/sajadTaghizade/Data-Science):** EDA, BI dashboards, Kafka/Spark streaming, CatBoost, and a team-built Stack Overflow similar-question recommender.
+* **[Computer-Vision](https://github.com/sajadTaghizade/Computer-Vision):** OpenCV fundamentals, a full CAPTCHA-breaking pipeline, CNN scene classification, and a U-Net photo-restoration model.
 
 ---
 
@@ -39,6 +41,7 @@ This repository contains my earned certificates and the corresponding projects I
 
 ### 🛠️ Application & Related Projects:
 * **Backend & Microservices:** Building scalable backend architectures and concurrent services utilizing Go's goroutines and channels.
+* **[Distributed-Systems](https://github.com/sajadTaghizade/Distributed-Systems):** IPC/RPC to a multi-VM system with Pub/Sub to a replicated key-value store (eventual vs. strong consistency), built in Go.
 
 ---
 
@@ -48,8 +51,8 @@ This repository contains my earned certificates and the corresponding projects I
 </p>
 
 ### 🛠️ Related Projects:
-* **[Programming-Languages-And-Compiler-Design](https://github.com/sajadTaghizade/Programming-Languages-And-Compiler-Design):** Projects and implementations related to lexical analysis, parsing, and compiler construction concepts.
-* **[Internet-Engineering](https://github.com/sajadTaghizade/Internet-Engineering):** Web development and backend architecture projects developed for the Internet Engineering course.
+* **[Programming-Languages-And-Compiler-Design](https://github.com/sajadTaghizade/Programming-Languages-And-Compiler-Design):** A full compiler for the MOL language — ANTLR lexer/parser, AST, name/type analysis, and JVM bytecode generation.
+* **[Internet-Engineering](https://github.com/sajadTaghizade/Internet-Engineering):** A hand-rolled Java HTTP server evolved into a REST API, a React frontend, Postgres persistence, JWT auth, and a Dockerized deployment.
 
 ---
 
@@ -77,6 +80,7 @@ This repository contains my earned certificates and the corresponding projects I
 
 ### 🛠️ Application:
 * **Infrastructure Foundation:** Understanding OSI model, TCP/IP, and network security protocols for distributed systems and backend infrastructure.
+* **[Computer-Networks](https://github.com/sajadTaghizade/Computer-Networks):** ns-3 WiFi simulation (802.11ac/ax) and GNS3 router topologies with static IP routing.
 
 ---
 

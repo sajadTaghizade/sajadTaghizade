@@ -25,22 +25,6 @@
 
 ---
 
-### 🚀 Featured Coursework Projects
-
-<p align="left">
-
-* 🌐 **[Distributed-Systems](https://github.com/sajadTaghizade/Distributed-Systems)** — IPC/RPC → a multi-VM system with Pub/Sub → a replicated key-value store (eventual vs. strong consistency), plus a research project on gossip-scaled semantic forwarding in NDN.
-* 💻 **[Operating-System](https://github.com/sajadTaghizade/Operating-System)** — Socket-based flight reservation system, a Linux shell with named/unnamed pipes, and a thread-synchronization + CPU-scheduling simulator.
-* 🖥️ **[Internet-Engineering](https://github.com/sajadTaghizade/Internet-Engineering)** — A hand-rolled Java HTTP server evolved phase by phase into a REST API, a React frontend, Postgres persistence, JWT auth, and a Dockerized multi-container deployment.
-* 🧩 **[Programming-Languages-And-Compiler-Design](https://github.com/sajadTaghizade/Programming-Languages-And-Compiler-Design)** — A full compiler for the **MOL** language: ANTLR lexer/parser → AST → name/type analysis → JVM bytecode generation.
-* 📊 **[Data-Science](https://github.com/sajadTaghizade/Data-Science)** — EDA, BI dashboards, Kafka/Spark streaming, CatBoost, and a team-built Stack Overflow similar-question recommender (Hit@10 = 0.893).
-* 🌐 **[Computer-Networks](https://github.com/sajadTaghizade/Computer-Networks)** — A multi-threaded TCP chat server, **TCP-Mini** (a reliable transport protocol built from scratch over UDP), ns-3 WiFi simulation, and GNS3 router topologies.
-* 👁️ **[Computer-Vision](https://github.com/sajadTaghizade/Computer-Vision)** — OpenCV fundamentals, a full CAPTCHA-breaking pipeline, CNN scene classification, and a U-Net photo-restoration model.
-
-</p>
-
----
-
 ### 📜 Certificates & Applied Projects
 
 <p align="left">
